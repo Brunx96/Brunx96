@@ -5,6 +5,8 @@ Atualmente estou estudando na área de TI, o curso Desenvolvedor Front-end pelo 
 
 ## Formação
 
+Atuei durante 6 anos como Técnico de Telecomunicações na empresa Globallvox Telecomunicações e Tecnologia a serviço da Claro, e anteriormente me formei em Técnico em Automação Industrial.
+
 
 ### Tecnologias que estou apredendo
 
